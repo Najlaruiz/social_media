@@ -1,4 +1,4 @@
-import EdgyIcon from "../../assets/images/edgy-icon.png";
+
 import companyInformation from "../../data/companyInformation";
 
 export default function AboutOne() {
@@ -55,9 +55,9 @@ export default function AboutOne() {
             <section className="absolute inset-0 bg-indigo-500 mix-blend-multiply opacity-30" />
             <section className="absolute inset-0 bg-gradient-to-t from-indigo-600 via-indigo-600 opacity-90" />
             <section className="relative px-8">
-              <section>
+              {/* <section>
                 <img className="h-12" src={EdgyIcon} alt="Edgy" />
-              </section>
+              </section> */}
               <blockquote className="mt-8">
                 <section className="relative text-lg font-medium text-white md:flex-grow">
                   <svg
@@ -69,12 +69,12 @@ export default function AboutOne() {
                     <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z" />
                   </svg>
                   <p className="relative">
-                    Welcome to a world of limitless connections and boundless possibilities. At Edgy, we're not just a social media company; we're the architects of your digital success. Join us today and unleash the true power of your online presence
+                    Welcome to a world of limitless connections and boundless possibilities. At Socialize your life, we're not just a social media company; we're the architects of your digital success. Join us today and unleash the true power of your online presence
                   </p>
                 </section>
                 <section className="mt-4">
                   <p className="text-base font-semibold text-indigo-200">
-                    Catherine Black, CEO at Edgy
+                    Najlaa el badraouy, CEO at socialize Your Life
                   </p>
                 </section>
               </blockquote>

@@ -49,16 +49,17 @@ export default function Hero() {
           {/* CONTENT SECTION */}
           <section className="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 sm:text-center lg:px-0 lg:text-left lg:flex lg:items-center">
             <section className="lg:py-24">
-              <h1 className="mt-4 text-5xl tracking-tight font-extrabold text-white sm:mt-5 sm:text-6xl lg:mt-6 xl:text-6xl">
-                <span className="block">Edgy</span>
+              <h1 className="mt-6 text-6xl tracking-tight font-extrabold text-white sm:mt-6 sm:text-6xl lg:mt-6 xl:text-6xl">
+                <span className="block">socialize Your Life</span>
                 <span className="block text-[color:var(--primary-font-color)]">
-                  your Instagram growth secret
+                  Buy Likes & Followers
                 </span>
               </h1>
               <p className="mt-3 text-base text-gray-300 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                Boost your popularity on Instagram with our premium package that
-                will skyrocket your profile engagement!
+                "" We're Here To Help You Manage Your Social Media Campaign 
               </p>
+              <span className="mt-3 text-base text-gray-300 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">●●● let's grow together</span>
+
               <section className="mt-10 sm:mt-12">
                 {loading ?
                   <React.Fragment>

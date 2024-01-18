@@ -1,4 +1,4 @@
-import StatsCover from '../../assets/images/instagram-preview.jpg'
+import StatsCover from '../../assets/video/instagram-preview.mp4'
 import companyStats from '../../data/companyStats'
 
 export default function Stats() {

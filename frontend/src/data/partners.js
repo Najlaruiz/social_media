@@ -1,33 +1,33 @@
 const partners = [
     {
         id: 0,
-        name: 'AirBNB',
-        img: "https://img.icons8.com/?size=512&id=103424&format=png",
-        href: 'https://www.airbnb.com/'
+        name: 'Facebook',
+        img: "https://img.icons8.com/color/48/facebook.png",
+        href: 'https://www.facebook.com/?locale=fr_FR'
     },
     {
         id: 1,
-        name: 'Duolingo',
-        img: 'https://img.icons8.com/?size=512&id=jJS472JMXlsE&format=png',
-        href: 'https://www.duolingo.com/'
+        name: 'Instagram',
+        img: 'https://img.icons8.com/fluency/48/instagram-new.png',
+        href: 'https://www.instagram.com/'
     },
     {
         id: 2,
-        name: 'FinalCut',
-        img: 'https://img.icons8.com/?size=512&id=9vdP7gCiMiAA&format=png',
-        href: 'https://www.apple.com/final-cut-pro/'
+        name: 'Tiktok',
+        img: 'https://img.icons8.com/color/48/tiktok.png',
+        href: 'https://getstarted.tiktok.com/'
     },
     {
         id: 3,
-        name: 'Fiverr',
-        img: 'https://img.icons8.com/?size=512&id=ngc6JsBomclm&format=png',
-        href: 'https://www.fiverr.com/'
+        name: 'Youtube',
+        img: 'https://img.icons8.com/fluency/48/youtube.png',
+        href: 'https://www.youtube.com/'
     },
     {
         id: 4,
-        name: 'Figma',
-        img: 'https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png',
-        href: 'https://www.figma.com/'
+        name: 'Google',
+        img: 'https://img.icons8.com/color/48/google-logo.png',
+        href: 'https://families.google/'
     },
 ]
 
