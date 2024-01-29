@@ -74,9 +74,8 @@ export default function Testimonials() {
           <section className="hidden lg:block lg:flex-shrink-0">
             <img
               className="h-64 w-64 rounded-full xl:h-80 xl:w-80"
-              src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-              alt=""
-              ia-hidden="true"
+              src="https://i.pinimg.com/564x/a9/a4/fb/a9a4fb5ba7d2f73907f5b4aefbed1b3a.jpg"
+    
             />
           </section>
           <section className="relative lg:ml-10">
@@ -106,16 +105,16 @@ export default function Testimonials() {
                   <section className="flex-shrink-0 lg:hidden">
                     <img
                       className="h-9 w-9 rounded-full"
-                      src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+                      src="https://i.pinimg.com/564x/a9/a4/fb/a9a4fb5ba7d2f73907f5b4aefbed1b3a.jpg"
                       alt=""
                     />
                   </section>
                   <section className="ml-4 lg:ml-0">
                     <section className="text-base font-medium text-white">
-                      Catherine Black
+                      Najlaa El badraouy
                     </section>
                     <section className="text-base font-medium text-[color:var(--primary-font-color)]">
-                      CEO, Edgy
+                      CEO, Social Thriver
                     </section>
                   </section>
                 </section>

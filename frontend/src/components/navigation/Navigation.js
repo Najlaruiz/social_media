@@ -23,7 +23,7 @@ export default function Navigation({ loggedIn, setLoggedIn, setTriggeredLogout }
         <section className="w-full py-6 flex items-center justify-between border-b border-indigo-500 lg:border-none">
           <section className="flex items-center">
             <Link to="/" onClick={ResetLocation}>
-              <span className="sr-only">Edgy</span>
+              <span className="sr-only">Social Thrive</span>
               <img className="h-10 w-auto" src={EdgyIcon} alt="Edgy" />
             </Link>
             <section className="hidden ml-10 space-x-8 lg:block">

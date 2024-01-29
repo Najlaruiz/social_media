@@ -74,7 +74,7 @@ export default function AboutOne() {
                 </section>
                 <section className="mt-4">
                   <p className="text-base font-semibold text-indigo-200">
-                    Najlaa el badraouy, CEO at socialize Your Life
+                    Najlaa el badraouy, CEO at Social Thriver
                   </p>
                 </section>
               </blockquote>
@@ -90,10 +90,10 @@ export default function AboutOne() {
           </h2>
           <section className="mt-6 text-gray-500 space-y-6">
             <p className="text-base leading-7">
-              Welcome to Edgy, your one-stop solution for Instagram growth services! We are a team of passionate and dedicated professionals who understand the importance of a strong online presence and the impact it can have on individuals and businesses alike. Our mission is to help you unlock the true potential of your Instagram account, enabling you to reach new heights of success and influence in the digital world.
+              Welcome to Social Thriver, your one-stop solution for Instagram growth services! We are a team of passionate and dedicated professionals who understand the importance of a strong online presence and the impact it can have on individuals and businesses alike. Our mission is to help you unlock the true potential of your Instagram account, enabling you to reach new heights of success and influence in the digital world.
             </p>
             <p className="text-base leading-7">
-              At Edgy, we firmly believe that Instagram is more than just a social media platform; it has become a powerful tool for personal branding, business growth, and community engagement. As the world becomes increasingly digital, having a robust Instagram presence is crucial for individuals looking to build a personal brand and businesses seeking to expand their reach and connect with their target audience.
+              At Social Thriver, we firmly believe that Instagram is more than just a social media platform; it has become a powerful tool for personal branding, business growth, and community engagement. As the world becomes increasingly digital, having a robust Instagram presence is crucial for individuals looking to build a personal brand and businesses seeking to expand their reach and connect with their target audience.
             </p>
             <p className="text-base leading-7">
               Our services are designed to cater to the unique needs of individuals and businesses at any stage of their Instagram journey. Whether you're a budding influencer, a start-up, or an established brand, we have tailor-made solutions to help you achieve your goals.

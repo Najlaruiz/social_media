@@ -50,7 +50,7 @@ export default function Hero() {
           <section className="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 sm:text-center lg:px-0 lg:text-left lg:flex lg:items-center">
             <section className="lg:py-24">
               <h1 className="mt-6 text-6xl tracking-tight font-extrabold text-white sm:mt-6 sm:text-6xl lg:mt-6 xl:text-6xl">
-                <span className="block">socialize Your Life</span>
+                <span className="block">Social Thriver</span>
                 <span className="block text-[color:var(--primary-font-color)]">
                   Buy Likes & Followers
                 </span>

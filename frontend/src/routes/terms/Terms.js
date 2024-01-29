@@ -111,7 +111,7 @@ export default function Terms() {
               Legal
             </span>
             <span className="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
-              Edgy Terms & Conditions
+             Social Thrive Terms & Conditions
             </span>
           </h2>
           <p className="mt-8 text-lg text-gray-500">These Terms & Conditions ("Terms") govern your use of the Instagram growth services provided by Edgy ("Edgy," "we," "our," or "us"). By using our services, you ("you," "your," or "user") agree to comply with these Terms and enter into a binding agreement with Edgy. If you do not agree with these Terms, please refrain from using our services.</p>
@@ -139,7 +139,7 @@ export default function Terms() {
           <p className="text-lg text-gray-500">These Terms shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of laws principles.</p>
           <h3 className="text-lg text-gray-500">12. Contact Us:</h3>
           <p className="text-lg text-gray-500">If you have any questions or concerns regarding these Terms or our services, please contact us at support@edgy.com.</p>
-          <p className="text-lg text-gray-500">By using Edgy's services, you acknowledge that you have read, understood, and agree to these Terms & Conditions.</p>
+          <p className="text-lg text-gray-500">By using Social Thrive services, you acknowledge that you have read, understood, and agree to these Terms & Conditions.</p>
         </section>
       </section>
     </main>

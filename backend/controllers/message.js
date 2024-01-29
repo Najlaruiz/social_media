@@ -2,13 +2,19 @@ const Message = require("../models/Message");
 
 exports.addMessage = async (req, res) => {
     if (
-      req.body.name !== "" &&
+      req.body.lastname !== "" &&
+      req.body.firstname !== "" &&
       req.body.email !== "" &&
+      req.body.company !== "" &&
+      req.body.phone !== "" &&
       req.body.message !== "" 
     ) {
         Message.create({
-        user_name: req.body.name,
+        user_lastname: req.body.lastname,
+        user_firstname: req.body.firstname,
         user_email: req.body.email,
+        user_company: req.body.company,
+        user_phone: req.body.phone,
         user_message: req.body.message
       })
       .then(() => {
@@ -48,16 +54,22 @@ exports.getMessage = (req, res) => {
 exports.updateMessage = async (req, res) => {
     const id = req.params.id;
     if (
-      req.body.name !== "" &&
+      req.body.lastname !== "" &&
+      req.body.firstname !== "" &&
       req.body.email !== "" &&
+      req.body.company !== "" &&
+      req.body.phone !== "" &&
       req.body.message !== "" 
     ) {
       try {
         const updatedMessage = await Message.findOneAndUpdate(
           { _id: id }, // Assuming _id is the unique identifier for the product
           {
-            user_name: req.body.name,
+            user_lastname: req.body.lastname,
+            user_firstname: req.body.firstname,
             user_email: req.body.email,
+            user_company: req.body.company,
+            user_phone: req.body.phone,
             user_message: req.body.message
           }
           ,
