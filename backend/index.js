@@ -15,15 +15,11 @@ app.use(express.static("public"));
 dbConnect();
 // initdb();
 
-
 const message = require("./routes/message");
 const category = require("./routes/category");
 
-
-
 app.use("/api/message", message);
 app.use("/api/category", category);
-
 
 app.listen(process.env.PORT, () =>
   console.log(`Serve running on port ${process.env.PORT}`)
