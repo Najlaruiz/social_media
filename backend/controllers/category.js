@@ -86,7 +86,7 @@ exports.showAllCategories = async (req, res) => {
 };
 
 
-exports.dealOfCategory = (req, res) => {
+exports.dealeteCategory = (req, res) => {
     // Assuming your Message model has a field named "_id"
     Category.findByIdAndDelete(req.params.id)
       .then((dealOfCategory) => {

@@ -29,7 +29,7 @@ export default function PricingComparisonTable({ loggedIn }) {
                 to={loggedIn ? "/profile" : "/sign-up"}
                 onClick={() => window.scrollTo(0, 0)}
                 className="block w-full bg-indigo-600 border border-transparent rounded-md shadow py-2 text-sm font-semibold text-white text-center hover:to-pink-600"
-              >
+              > 
                 Buy {tier.name}
               </Link>
             </section>
